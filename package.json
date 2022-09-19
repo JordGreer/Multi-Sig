@@ -66,7 +66,9 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "searchico": "^1.2.1"
+  },
   "devDependencies": {
     "husky": "^7.0.2"
   }
